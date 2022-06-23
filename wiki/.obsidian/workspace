@@ -7,8 +7,12 @@
         "id": "c60f6b481f5c0db9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DL/basic notion.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "DL/basic notion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -69,12 +74,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "DL/basic notion.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
   "active": "c60f6b481f5c0db9",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "DL/basic notion.md"
+  ]
 }
