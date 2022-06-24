@@ -8,7 +8,7 @@
 
 打开 Ubuntu Software & updates 软件，选择 Additional Drivers ，安装推荐的驱动，在网络好的环境下安装成功率较高。
 
-![[additional-driver.png]]
+![[additions/additional-driver.png]]
 
 ### Download suitable editions
 

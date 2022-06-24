@@ -14,7 +14,7 @@ CUDA 的版本不是很重要，但是需要与 GPU driver 的版本相符，可
 nvidia-smi
 ```
 
-![](nvidia-smi.png)
+![](additions/nvidia-smi.png)
 
 #### CUDA
 

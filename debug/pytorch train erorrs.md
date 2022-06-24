@@ -8,7 +8,7 @@ nvidia 显卡驱动存在问题，重新安装显卡驱动。
 
 ## /dev/sdb5 clear:xxx files xxx blocks
 
-使用 Centernet 模型训练 Kitti 数据集，解决完数据集格式、训练参数问题后，又出现[[pytorch train erorrs#Runtime error cuDNN error CUDNN_STATUS_ERROR]] 等问题，当设置 batch_size = 4 后，没有了上述错误，但是系统直接死机了，然后屏幕显示
+使用 Centernet 模型训练 Kitti 数据集，解决完数据集格式、训练参数问题后，又出现[[debug/pytorch train erorrs#Runtime error cuDNN error CUDNN_STATUS_ERROR]] 等问题，当设置 batch_size = 4 后，没有了上述错误，但是系统直接死机了，然后屏幕显示
 
 ![creat-model | 600](additions/Screenshot%20from%202022-04-22%2015-12-23.png)
 
@@ -16,7 +16,7 @@ nvidia 显卡驱动存在问题，重新安装显卡驱动。
 
 ![unnormal-restart | 600](additions/share.jpg)
 
-然后问题演变成 了解决 [[you are in emergency mode]]问题，这个问题之前确实没遇到过，这里解决了很长时间。
+然后问题演变成 了解决 [[debug/you are in emergency mode]]问题，这个问题之前确实没遇到过，这里解决了很长时间。
 
 
 
